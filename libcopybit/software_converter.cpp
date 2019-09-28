@@ -30,6 +30,7 @@
 #include <cutils/log.h>
 #include <stdlib.h>
 #include <errno.h>
+#include <string.h>
 #include "software_converter.h"
 #include <cstring>
 
